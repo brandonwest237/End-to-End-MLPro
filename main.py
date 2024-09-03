@@ -1,4 +1,3 @@
-from mlProject import logger
-
+from mlPro import logger
 
 logger.info("Welcome to our custom logging")
